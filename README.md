@@ -6,4 +6,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noe1017&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noe1017&show_icons=true&theme=transparent)
