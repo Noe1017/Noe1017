@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Solidity & Web3
 - 💬 Ask me about blockchain dev
-- 📫 How to reach me: noe1017@example.com
+- 📫 How to reach me: jixiangli1017@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noe1017&layout=compact)
 
