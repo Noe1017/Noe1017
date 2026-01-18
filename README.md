@@ -4,6 +4,6 @@
 - 💬 Ask me about blockchain dev
 - 📫 How to reach me: jixiangli1017@gmail.com
 
-![Top Langs](https://camo.githubusercontentusercontent.com/157d471d6920bcb6516878488a480ee12390ec617e656b67fdec641e8f4d6ab1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e6f6531303137266c61796f75743d636f6d70616374)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noe1017&layout=compact)
 
-![Anurag's GitHub stats](https://camo.githubusercontentusercontent.com/18067877f3e6f14825823832bb9dcb3b63f2da001c56fdc092d6722064cdefa4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4e6f65313031372673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e74)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noe1017&show_icons=true&theme=transparent)
