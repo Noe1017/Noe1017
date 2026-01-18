@@ -1,45 +1,9 @@
-# Hi, I'm Jixiang Li (李吉祥) 👋
+# Hi, I'm noe1017 👋
 
-## About Me
+- 🌱 I'm currently learning Solidity & Web3
+- 💬 Ask me about blockchain dev
+- 📫 How to reach me: jixiangli1017@gmail.com
 
-Data Engineer at **MeiTuan** (美团), working on large-scale data processing systems and infrastructure. Previously C++ Engineer Intern at **Megvii** (旷视), focusing on autonomous driving systems.
+![Top Langs](https://camo.githubusercontentusercontent.com/157d471d6920bcb6516878488a480ee12390ec617e656b67fdec641e8f4d6ab1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e6f6531303137266c61796f75743d636f6d70616374)
 
-Graduated from **North University of China** with a B.Eng. in Computer Science, where I was an active member of the ACM Programming Team.
-
-## Interests
-
-- 🔥 **Data Engineering** - Distributed systems and data infrastructure
-- ⛓️ **Blockchain Development** - Building DApps with Solidity
-- 🤖 **AI Coding** - Exploring AI-powered development tools
-- 🏆 **Competitive Programming** - Former ACM ICPC contestant
-
-## Featured Projects
-
-### 🔐 [SilentDAO](https://github.com/Noe1017/SilentDAO)
-Privacy-Preserving Governance Voting on Mantle L2 using ZK proofs. Enables anonymous, verifiable, and tamper-proof DAO voting while protecting members from coercion and whale dominance.
-
-**Mantle Global Hackathon 2025 Project**
-
-### ⛽ [gas_morph](https://github.com/Noe1017/gas_morph)
-Fee reduction mechanism based on on-chain user activity.
-
-**Monad Blitz @ Beijing Hackathon Project**
-
-## Honors & Awards
-
-- 🥈 **Silver Medal** - ACM-ICPC China National Invitational Contest (2023)
-- 🥉 **Bronze Medal** - ACM-ICPC Asia Regional Contest (2022)
-- 🏆 **National First Prize** - CCCC TPD Ladder Contest (2023)
-- 🏆 **National Second Prize** - Lanqiao Cup (2022)
-
-## Get in Touch
-
-- 📧 Email: [jixiangli1017@gmail.com](mailto:jixiangli1017@gmail.com)
-- 🌐 Website: [jixiangli.xyz](https://jixiangli.xyz)
-- 💼 GitHub: [Noe1017](https://github.com/Noe1017)
-- 📝 Blog: [AcWing](https://www.acwing.com/user/myspace/record/84671/)
-- 📺 Bilibili: [空间](https://space.bilibili.com/482277094)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noe1017&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noe1017&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://camo.githubusercontentusercontent.com/18067877f3e6f14825823832bb9dcb3b63f2da001c56fdc092d6722064cdefa4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4e6f65313031372673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e74)
