@@ -4,4 +4,8 @@
 - 💬 Ask me about blockchain dev
 - 📫 How to reach me: jixiangli1017@gmail.com
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=noe1017.noe1017)
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Noe1017&theme=default)
+
+![Profile Views](https://komarev.com/ghpvc/?username=noe1017&color=blue)
